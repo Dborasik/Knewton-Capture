@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/type-bookmarklet-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="type"/>
-<img src="https://img.shields.io/badge/browser-Edge%20%7C%20Chrome-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="browser"/>
 <img src="https://img.shields.io/badge/install-zero_dependencies-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="no deps"/>
 <img src="https://img.shields.io/badge/personal_use-only-red?style=for-the-badge&logo=shield&logoColor=white" alt="personal use only"/>
 
