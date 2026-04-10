@@ -8,8 +8,7 @@
 <br/><br/>
 
 # 📄 Knewton Alta → PDF
-### A one-click bookmarklet that saves your Knewton Alta assignment pages as clean, organized PDFs. 
-### Because retyping your own notes shouldn't be part of the assignment.
+### Simple bookmarklet to save Knewton Alta assignment pages as clean, organized PDFs.<br/>Because retyping your own notes shouldn't be part of the assignment.
 
 <br/>
 
